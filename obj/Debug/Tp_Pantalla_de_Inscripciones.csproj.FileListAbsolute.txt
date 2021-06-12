@@ -1,0 +1,10 @@
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\bin\Debug\Tp_Pantalla_de_Inscripciones.exe.config
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\bin\Debug\Tp_Pantalla_de_Inscripciones.exe
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\bin\Debug\Tp_Pantalla_de_Inscripciones.pdb
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\obj\Debug\Tp_Pantalla_de_Inscripciones.csprojAssemblyReference.cache
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\obj\Debug\Tp_Pantalla_de_Inscripciones.Form1.resources
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\obj\Debug\Tp_Pantalla_de_Inscripciones.Properties.Resources.resources
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\obj\Debug\Tp_Pantalla_de_Inscripciones.csproj.GenerateResource.cache
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\obj\Debug\Tp_Pantalla_de_Inscripciones.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\obj\Debug\Tp_Pantalla_de_Inscripciones.exe
+D:\Proyectos de Visual\Tp_Pantalla_de_Inscripciones\Tp_Pantalla_de_Inscripciones\obj\Debug\Tp_Pantalla_de_Inscripciones.pdb
